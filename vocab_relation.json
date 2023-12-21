@@ -1,0 +1,11 @@
+{
+      "_NAF_R": 0,
+      "co-occurs_with": 1,
+      "affects": 2,
+      "treats": 3,
+      "isa": 4,
+      "prevents": 5,
+      "diagnoses": 6,
+      "causes": 7,
+      "interacts_with": 8
+}
